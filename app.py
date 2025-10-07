@@ -15,7 +15,7 @@ import openai
 # ============================================================
 # CONFIGURATION - Add your OpenRouter API key here
 # ============================================================
-OPENROUTER_API_KEY = "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"  # Replace with your OpenRouter API key
+OPENROUTER_API_KEY = "add your API Key"  # Replace with your OpenRouter API key
 openai.api_key = OPENROUTER_API_KEY
 openai.api_base = "https://openrouter.ai/api/v1"
 
@@ -189,3 +189,4 @@ if st.session_state.document_text:
             st.text_area("Full document:", st.session_state.document_text, height=400, disabled=True)
 else:
     st.info("👈 Please upload a document using the sidebar to get started!")
+
