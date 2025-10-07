@@ -101,6 +101,7 @@ docuchat-ai/
 ├── README.md              # Project documentation
 ├── .gitignore             # Git ignore file
 ├── LICENSE                # License information
+├── USER_GUIDE.PDF         # PDF with usage instructions
 └── images/                # Application screenshots
     ├── User Interface.png
     ├── upload doc.png
