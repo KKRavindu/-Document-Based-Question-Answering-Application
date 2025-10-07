@@ -1,0 +1,14 @@
+# Core Web Framework
+streamlit==1.39.0
+
+# PDF/Text Processing
+PyPDF2==3.0.1
+
+# OpenAI / OpenRouter API client
+openai==0.28.0
+
+# Optional (for better encoding handling and file I/O)
+chardet==5.2.0
+
+# For environment variable handling (optional but recommended)
+python-dotenv==1.0.1
