@@ -101,18 +101,11 @@ docuchat-ai/
 ├── README.md              # Project documentation
 ├── .gitignore             # Git ignore file
 ├── LICENSE                # License information
-│
-├── tests/                 # Test files (optional)
-│   └── test_app.py
-│
-├── sample_documents/      # Sample test documents
-│   ├── sample.pdf
-│   └── sample.txt
-│
-└── screenshots/           # Application screenshots
-    ├── main_interface.png
-    ├── upload_process.png
-    └── qa_example.png
+└── images/                # Application screenshots
+    ├── User Interface.png
+    ├── upload doc.png
+    ├── process doc.png
+    └── Ask questions.png
 ```
 
 ## 🔧 Configuration
@@ -190,16 +183,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - OpenRouter for providing LLM API access
 - Streamlit for the amazing web framework
 - PyPDF2 for PDF processing capabilities
-
-## 🗺️ Roadmap
-
-- [ ] Support for DOCX files
-- [ ] Multi-language support
-- [ ] Document comparison feature
-- [ ] Export Q&A history to PDF
-- [ ] Voice input for questions
-- [ ] Dark/Light theme toggle
-
----
 
 **Built with ❤️ using Python, Streamlit, and AI**
