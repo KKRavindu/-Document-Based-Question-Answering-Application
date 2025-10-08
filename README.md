@@ -30,7 +30,7 @@ Before running the application, ensure you have:
 
 - Python 3.8 or higher installed
 - pip (Python package manager)
-- An OpenRouter API key ([Get one here](https://openrouter.ai/))
+- An OpenRouter API key ([Get one here](https://openrouter.ai/openai/gpt-oss-120b))
 
 ## 🚀 Installation
 
